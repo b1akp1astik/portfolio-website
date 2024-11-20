@@ -25,7 +25,7 @@ Detail-oriented Computer Science student with over 6 years of experience in the 
 - **Programming Languages**: Python, C++, Java, PHP, HTML, TensorFlow/Keras (Machine Learning), R (R Studio), SAS  
 - **Development Tools**: Visual Studio, Git, GitHub, R Studio, Jupyter Notebook, Google Colab  
 - **Technical Skills**: Object-Oriented Programming, Embedded Systems, Software Development Lifecycle, Electronics Repair, Circuit Card Repair, IT Infrastructure, Soldering, Troubleshooting, Distributed Systems, Network Security, Cloud Technologies  
-- **DevSecOps Tools**: Git, GitHub  
+- **DevSecOps Tools**: Familiar with Atlassian, Gitlab, and Jenkins  
 - **Soft Skills**: Leadership, Communication, Cross-functional Team Collaboration, Problem-Solving, Adaptability, Logistics Management
 
 ---
