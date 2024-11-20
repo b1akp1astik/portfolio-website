@@ -57,6 +57,8 @@ Detail-oriented Computer Science student with over 6 years of experience in the 
 
 ---
 
+\newpage
+
 # Education
 
 ## Bachelor of Science in Computer Science (In Progress)  
@@ -90,6 +92,8 @@ Detail-oriented Computer Science student with over 6 years of experience in the 
 
 ---
 
+\newpage
+
 # Projects
 
 ## Document Search and Indexing System (C++)  
@@ -110,19 +114,19 @@ Detail-oriented Computer Science student with over 6 years of experience in the 
 
 ---
 
+\newpage
+
 # Certifications and Achievements
 
-- **Navy Achievement Medal** (2) for outstanding performance during deployment  
+- **Navy/Marine Corps Achievement Medal** (2) for outstanding performance during deployment  
 - **Navy Good Conduct Medal** (2) for consistent exemplary behavior and dedication to duty  
 - **National Defense Service Medal**  
 - **Global War on Terrorism Service Medal**  
-- **Global War on Terrorism Expeditionary Medal**  
 - **Sea Service Deployment Ribbon**  
 - **Navy Unit Commendation**  
 - **Expeditionary Medal (Navy/Marine Corps)**  
-- **Warrior Service Ribbon**  
-- **Expert M14 Rifle Qualification**  
-- **Expert .45 Cal Pistol Qualification**
+- **Expert Rifle Qualification**  
+- **Expert Pistol Qualification**  
 
 ---
 
