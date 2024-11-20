@@ -6,7 +6,7 @@ Welcome to my portfolio repository! This repository contains the source code for
 
 - **`index.html`**: The HTML file containing the source code for my personal website.
 - **`Software-Engineer-Resume.pdf`**: A downloadable PDF version of my resume for easy sharing.
-- **`Harley_Gribble_Resume.Rmd`**: The RMarkdown version of my resume, which can be used to generate both HTML and PDF formats of the document.
+- **`Software-Engineer-Resume.Rmd`**: The RMarkdown version of my resume, which can be used to generate both HTML and PDF formats of the document.
 
 ## Website Overview
 
