@@ -1,0 +1,134 @@
+---
+title: "Harley Gribble Resume"
+author: "Harley Gribble (Trae)"
+output: pdf_document
+---
+
+# Contact Information
+
+**Harley Gribble (Trae)**  
+**Email**: [hgribble@smu.edu](mailto:hgribble@smu.edu)  
+**Phone**: 304.580.9809  
+**LinkedIn**: [linkedin.com/in/harley-gribble-729779116](https://www.linkedin.com/in/harley-gribble-729779116)  
+**Website**: [https://s2.smu.edu/~hgribble/](https://s2.smu.edu/~hgribble/)
+
+---
+
+# Summary
+
+Detail-oriented Computer Science student with over 6 years of experience in the U.S. Navy as an Electronics Technician, specializing in secure communications and IT infrastructure. Currently transitioning into software engineering, with strong skills in **C++, Python**, and object-oriented programming. Seeking an opportunity to apply my software development skills in a team-oriented environment. Passionate about embedded systems, real-time software, and contributing to innovative technology solutions in defense and aerospace.
+
+---
+
+# Professional Skills
+
+- **Programming Languages**: Python, C++, Java, PHP, HTML, TensorFlow/Keras (Machine Learning), R (R Studio), SAS  
+- **Development Tools**: Visual Studio, Git, GitHub, R Studio, Jupyter Notebook, Google Colab  
+- **Technical Skills**: Object-Oriented Programming, Embedded Systems, Software Development Lifecycle, Electronics Repair, Circuit Card Repair, IT Infrastructure, Soldering, Troubleshooting, Distributed Systems, Network Security, Cloud Technologies  
+- **DevSecOps Tools**: Git, GitHub  
+- **Soft Skills**: Leadership, Communication, Cross-functional Team Collaboration, Problem-Solving, Adaptability, Logistics Management
+
+---
+
+# Work Experience
+
+## Electronics Mechanic | Navy Undersea Warfare Command  
+**Apr 2018 - Mar 2021**  
+- Performed depot-level electronic repair for all branches of military service.  
+- Conducted soldering and repair of electronics and microelectronics, from trim pumps to circuit cards.  
+- Engaged in obsolescence management, repairing components no longer under contract.  
+
+## IT Lead Petty Officer | US Navy: Naval Hospital Bremerton  
+**Apr 2018 - Sep 2018**  
+- Directed the deployment and integration of MHS GENESIS, the hospital's Cerner-based electronic health record (EHR) system.  
+- Led cross-functional IT support teams to ensure infrastructure readiness, data migration, and network security compliance.  
+- Managed system testing protocols, user access controls, and optimized IT configurations to support clinical workflows.  
+- Provided training and technical support to hospital staff, ensuring uptime and reliability during system transition.  
+
+## Electronics Technician (Submarines) | U.S. Navy: USS Miami (SSN 755), USS Buffalo (SSN 715)  
+**Mar 2012 - Apr 2018**  
+- Operated, maintained, and repaired satellite communications systems for secure voice and data transmission, including antennas, decouplers, cryptographic devices, routers, and switches.  
+- Managed and maintained Top Secret IT network infrastructure, including servers, routers, and workstations, ensuring reliable communication channels for mission-critical operations.  
+- Troubleshot and resolved issues in IT network equipment using Putty scripting, command line tools, and diagnostics.  
+- Operated and maintained multiple communication circuits, including EHF, SHF, HF, UHF, LF, VLF, and VHF communication links up to Top Secret classification.  
+- Conducted preventative and corrective maintenance on over 100 pieces of submarine electronics, including RADAR, intelligence equipment, and cryptologic systems.  
+- Led logistics and inventory management for over $1 million worth of communication and electronic equipment, ensuring all mission-essential components were available and functional.  
+- Maintained and repaired intelligence systems for Signal Intelligence (SIGINT) and Communication Intelligence (COMINT), contributing to the effective gathering and secure transmission of critical information.
+
+---
+
+# Education
+
+## Bachelor of Science in Computer Science (In Progress)  
+**Southern Methodist University, 2023-2026**  
+- Completed courses include: Data Structures, Algorithms, Machine Learning, Discrete Computational Structures, Foundations of Modern Computing, Software Engineering, Embedded Systems  
+
+## Fiber Optics Installer Certification  
+**ETA International**, Jan 2017
+
+## NAVSEA Solder Repair/ESD Certification  
+**Navy Undersea Warfare Command**, 2019
+
+## Submarine Communications Electronics Rating Field  
+**U.S. Navy, Submarine School Groton, CT**, Apr 2013
+
+## Tactical Computer Network Operator  
+**U.S. Navy Submarine School Groton, CT**, Oct 2012
+
+## Advanced Technical Training  
+**U.S. Navy Submarine School Groton, CT**, Aug 2012
+
+## Basic Enlisted Submarine School  
+**U.S. Navy Submarine School Groton, CT**, Jun 2012
+
+## Additional Military Training  
+- **Introduction to EKMS (Electronic Key Management System)**, Dec 2012  
+- **Common Submarine Radio Room Operation**, Feb 2013  
+- **AN/BPS-15H Operator**, Mar 2013  
+- **Electronic Sensor Measure Operator**, Mar 2013  
+- **Fiber Optics Maintenance Technician**, Jan 2017
+
+---
+
+# Projects
+
+## Document Search and Indexing System (C++)  
+- **Tech Stack**: C++  
+- Developed a document indexing and search system using AVL trees, hash maps, and a custom query processor. Implemented features such as term frequency-inverse document frequency (TF-IDF) ranking, random search results, and index persistence. Achieved high speed and accuracy in indexing and search, with a focus on efficiency and scalability. Conducted thorough performance analysis, including corpus statistics and indexing times.
+
+## Text Classification on TensorFlow AG News Dataset  
+- **Tech Stack**: Python, TensorFlow  
+- Conducted text classification on the TensorFlow AG News dataset using sequential network architectures. Evaluated CNNs and Transformers, tuned hyperparameters, and compared model performances using metrics such as recall, precision, F1-score, and accuracy. Concluded that the GloVe-based CNN model performed best overall, with an average recall of 0.9062 and average precision of 0.9091.
+
+## Personal Portfolio Website  
+- **Tech Stack**: HTML, CSS, JavaScript  
+- Created a personal website to showcase my projects, including experience and coursework. Used JavaScript for interactive elements. [Available here](https://b1akp1astik.github.io/).
+
+## Sentiment Analysis in C++  
+- **Tech Stack**: C++  
+- Developed a sentiment analysis program in C++ to classify tweets as positive or negative. Implemented preprocessing techniques like tokenization, lowercasing, removal of special characters, and stemming using Porter2. Achieved an accuracy of 72.4% on the provided training and test data. The program efficiently manages memory, verified using Valgrind, and leverages a custom DSString class for text processing.
+
+---
+
+# Certifications and Achievements
+
+- **Navy Achievement Medal** (2) for outstanding performance during deployment  
+- **Navy Good Conduct Medal** (2) for consistent exemplary behavior and dedication to duty  
+- **National Defense Service Medal**  
+- **Global War on Terrorism Service Medal**  
+- **Global War on Terrorism Expeditionary Medal**  
+- **Sea Service Deployment Ribbon**  
+- **Navy Unit Commendation**  
+- **Expeditionary Medal (Navy/Marine Corps)**  
+- **Warrior Service Ribbon**  
+- **Expert M14 Rifle Qualification**  
+- **Expert .45 Cal Pistol Qualification**
+
+---
+
+# Additional Information
+
+- **Security Clearance**: Previous Top Secret/SCI Clearance, eligible for Secret Clearance  
+- **Languages**: Spanish (conversational)
+
+---
