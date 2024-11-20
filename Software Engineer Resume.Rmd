@@ -1,6 +1,5 @@
 ---
-title: "Harley Gribble Resume"
-author: "Harley Gribble (Trae)"
+title: "Harley Gribble"
 output: pdf_document
 ---
 
@@ -29,6 +28,8 @@ Detail-oriented Computer Science student with over 6 years of experience in the 
 - **Soft Skills**: Leadership, Communication, Cross-functional Team Collaboration, Problem-Solving, Adaptability, Logistics Management
 
 ---
+
+\newpage
 
 # Work Experience
 
